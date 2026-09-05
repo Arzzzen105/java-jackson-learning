@@ -12,7 +12,6 @@ The lab includes an example that demonstrates the following scenario:
 
 This example shows how `JsonNode` and `ObjectNode` can be used to read specific values (like an event type or an ID from a nested array) and perform in-place modifications to the JSON document.
 - [TreeExample](src/main/java/com/arzzzen/learning/jackson/tree/lab/TreeExample.java)
-- [TreeExampleTest](src/test/java/com/arzzzen/learning/jackson/tree/lab/TreeExampleTest.java)
 
 ## Tasks
 
