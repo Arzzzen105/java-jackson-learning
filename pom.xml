@@ -23,6 +23,7 @@
     <module>jackson-streaming-api</module>
       <module>jackson-tree-model</module>
       <module>jackson-object-mapper</module>
+      <module>jackson-annotation</module>
   </modules>
 
   <developers>
