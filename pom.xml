@@ -19,6 +19,8 @@
 
   <modules>
     <module>jackson-streaming-api</module>
+      <module>jackson-tree-model</module>
+      <module>jackson-object-mapper</module>
   </modules>
 
   <developers>
