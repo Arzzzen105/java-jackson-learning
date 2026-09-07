@@ -4,8 +4,8 @@
   <packaging>pom</packaging>
 
   <name>Jackson Learn</name>
-  <groupId>com.arzzzen.learning</groupId>
-  <artifactId>jackson</artifactId>
+  <groupId>com.arzzzen.learning.jackson</groupId>
+  <artifactId>jackson-learning</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <properties>
@@ -24,6 +24,7 @@
       <module>jackson-tree-model</module>
       <module>jackson-object-mapper</module>
       <module>jackson-annotation</module>
+      <module>jackson-annotation-advanced</module>
   </modules>
 
   <developers>
